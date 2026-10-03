@@ -32,10 +32,10 @@ worth their time.**
 | | FY 2024 | FY 2025 |
 |---|---|---|
 | Federal contract spending | **$755 billion** | **$793 billion** |
-| Prime contract dollars to small businesses | **$183.5 billion** (28.76%) | **~$179 billion** (~28%) |
-| Small business total, prime + subcontracts | - | **~$273 billion** |
 | Federal contract awards with activity in the year | **~5.9 million** | **~5.8 million** |
 | ...of which held by small businesses | **~2.9 million** (about half) | **~2.9 million** (about half) |
+| ...paying small businesses, as prime contractors | **$183.5 billion** (28.76% of all prime dollars) | **~$179 billion** (~28%) |
+| ...and including subcontracts | - | **~$273 billion** |
 
 And that's only the federal market. **State and local governments spend more
 than $3.5 trillion a year** - spread across every state's own systems.
