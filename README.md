@@ -1,6 +1,6 @@
-# S.A.M Sniper
+# S.A.M. Sniper
 
-**S.A.M Sniper is a Windows desktop application from NG Solutions. It was
+**S.A.M. Sniper is a Windows desktop application from NG Solutions. It was
 designed as an educational and research project to help organizations of
 every size - small businesses, large firms, nonprofits and the teams that
 support them - find, judge and win government contracts.**
@@ -71,9 +71,9 @@ Winning teams don't search harder. They change what they look at:
    sighting to final decision.
 4. **Your data stays yours** - the work happens on your own computer.
 
-## S.A.M Sniper
+## S.A.M. Sniper
 
-S.A.M Sniper brings that way of working to your desktop:
+S.A.M. Sniper brings that way of working to your desktop:
 
 - **Sees the market for you** - official federal sources and a growing list of
   states' official procurement systems, gathered into one place and kept
@@ -89,7 +89,7 @@ S.A.M Sniper brings that way of working to your desktop:
   stay on your computer; every listing credits and links back to its official
   source.
 
-S.A.M Sniper is built and refined as an ongoing research project in how
+S.A.M. Sniper is built and refined as an ongoing research project in how
 organizations can find and evaluate public-sector opportunities more fairly
 and efficiently. It is offered by invitation while it grows.
 
@@ -119,7 +119,7 @@ and efficiently. It is offered by invitation while it grows.
 - State and local government spending: Urban Institute, as cited by NASPO,
   [*The New World of Procurement*](https://cms.naspo.org/the-new-world-of-procurement/).
 
-S.A.M Sniper is an independent product of NG Solutions. It is not affiliated
+S.A.M. Sniper is an independent product of NG Solutions. It is not affiliated
 with, endorsed by or sponsored by the U.S. government, the General Services
 Administration, SAM.gov or any state or local government.
 
